@@ -1,14 +1,17 @@
-<h3 style="font-size: 26px;">👋 Hi, I’m <a href="https://github.com/HelloKeerthana" target="_blank">@HelloKeerthana</a>!</h3>
+<h1>Hi, I’m <a href="https://github.com/HelloKeerthana" target="_blank">@HelloKeerthana</a></h1>  
 
-<p>Welcome to my corner of the internet! 🚀</p>
-<h4 style="font-size: 20px;">👀 Interests</h4>
-<p>I'm passionate about both <strong>Full Stack</strong> and <strong>ML</strong>. If it involves code, you can bet I'm all over it! 💻</p>
-<h4 style="font-size: 20px;">🌱 Currently Learning</h4>
-<p>I'm diving deep into the exciting world of <strong>AI/ML</strong>. 🧠 The future is now, and I'm here for it!</p>
-<h4 style="font-size: 20px;">💞️ Collaborations</h4>
-<p>I'm always on the lookout for cool, creative <strong>projects to collaborate on</strong>. Got an idea? Let's make it happen! 🚀</p>
-<h4 style="font-size: 20px;">📫 How to Reach Me</h4>
-<p>You can reach me by email (check my contact details, but don't spam! 😉).</p>
-<h4 style="font-size: 20px;">⚡ Fun Fact</h4>
-<p><strong>crazy about learning new skills</strong> outside of uni. If there's a new tool, framework, or technology, I’m probably already tinkering with it. 😜</p>
-<p>Let's build something awesome together! 👩‍💻✨</p>
+<blockquote><em>“Writing code and making machines smarter — what could possibly go wrong?”</em></blockquote>  
+
+<h2>About Me</h2>  
+<ul>  
+  <li>Full Stack developer & AI/ML explorer.</li>  
+  <li>Debugging life one <code>console.log()</code> at a time.</li>  
+</ul>  
+
+<h2>Fun Fact</h2>  
+<p>I said "No more new frameworks." I lied.</p>  
+
+<h2>Let's Collaborate</h2>  
+<p>Got a wild project? Let’s build something people won’t believe actually works.</p>  
+
+<blockquote><em>“Ship it first. Panic later.”</em></blockquote>
