@@ -1,6 +1,5 @@
 # hi, i’m keerthana
 
-## About Me  
 i’m a full-stack developer with a knack for AI/ML. 
 i spend my days building things that work... and my nights fixing bugs i swear weren’t there before.  
 if you send me a broken commit, i’ll hunt you down.  
