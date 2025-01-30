@@ -1,4 +1,4 @@
-# Hi, I’m [@HelloKeerthana](https://github.com/HelloKeerthana)
+# hi, i’m keerthana
 
 ## About Me  
 i’m a full-stack developer with a knack for AI/ML. 
