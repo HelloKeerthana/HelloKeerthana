@@ -6,12 +6,12 @@ if you send me a broken commit, i’ll hunt you down.
 
 ![Satoru Gojo](https://media1.tenor.com/m/9zIX6hEV6VIAAAAd/satoru-gojo.gif)
 
-## What I Do  
+## what i do(or atleast try to do) 
 - develop full-stack apps that actually make sense (most of the time).  
 - train AI to help me not lose my mind to bugs.  
 - collaborate with anyone brave enough to share their code with me.  
 
-## Let’s Connect  
+## collborating-connecting-networking 😮‍💨 
 ff you want to work on something amazing, hit me up!
 
-### Built with 💻 and a healthy dose of caffeine ☕
+### built with 💻 and a healthy dose of caffeine ☕
