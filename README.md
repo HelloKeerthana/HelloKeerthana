@@ -1,7 +1,6 @@
 ```
 # hi, i’m keerthana
 
-i’m a full-stack developer with a knack for AI/ML.  
-i spend my days building things that work...  
-and my nights fixing bugs i swear weren’t there before.
+i build machine learning systems that make sense of data.  
+most days go into modeling and code — nights into chasing better accuracy.
 ```
