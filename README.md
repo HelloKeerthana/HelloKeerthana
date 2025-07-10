@@ -1,2 +1,2 @@
 
-# hey, it's keerthana
+# howdie techie
