@@ -1,7 +1,6 @@
-<h1>howdie techie</h1>
-ᨐฅ
+<h2>howdie techie</h2> <h1>ᨐᵉᵒʷ</h1>
 <pre>
-    aboutMe = {
+aboutMe = {
     name       : "Keerthana Panchumarthi",
     from       : "India 🇮🇳",
     pronouns   : "she/her",
