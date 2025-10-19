@@ -1,6 +1,7 @@
 <h1>howdie techie</h1>
-
-aboutMe = {
+ᨐฅ
+<pre>
+    aboutMe = {
     name       : "Keerthana Panchumarthi",
     from       : "India 🇮🇳",
     pronouns   : "she/her",
@@ -10,6 +11,6 @@ aboutMe = {
     libraries  : ["NumPy", "Pandas", "Matplotlib", "Scikit-Learn", "OpenCV", "TensorFlow"],
     databases  : ["MongoDB"],
 }
+</pre>
 
-<img width="900" height="506" alt="image" src="https://github.com/user-attachments/assets/9d5d1cd7-73d4-4506-a28d-482f05913b49" />
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=HelloKeerthana)
