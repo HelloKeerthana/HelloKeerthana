@@ -1,4 +1,4 @@
-<h2>howdie techie</h2> <h1>ᨐᵉᵒʷ</h1>
+<h2>howdie techie</h2> 
 <pre>
 aboutMe = {
     name       : "Keerthana Panchumarthi",
@@ -11,5 +11,5 @@ aboutMe = {
     databases  : ["MongoDB"],
 }
 </pre>
-
+<h1>ᨐฅ</h1>
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=HelloKeerthana)
