@@ -5,6 +5,7 @@ aboutMe = {
     from       : "India 🇮🇳",
     pronouns   : "she/her",
     interests  : ["Programming", "Machine Learning", "Backend Systems", "Art and Music"],
+    currently learning : ["linux", "agentic AI"]
 }
 </code>
 <h1>ᨐฅ</h1
